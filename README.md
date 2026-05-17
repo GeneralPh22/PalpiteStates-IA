@@ -1,25 +1,3 @@
-# Palpite Stats IA
+# PalpiteStats
 
-## Instalar
-
-```bash
-npm install
-```
-
-## Rodar
-
-```bash
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-## Deploy no Vercel
-
-Adicione:
-
-VITE_ANTHROPIC_API_KEY=sua_chave
+Projeto React + Vite pronto para deploy no Vercel.
